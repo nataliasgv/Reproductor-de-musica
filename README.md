@@ -2,7 +2,7 @@ En este proyecto, se está diseñando un reproductor de música que permite gest
 
 El objetivo principal es gestionar de forma eficiente la información sobre las canciones y permitir acciones como:
 
-Organizar y acceder a la colección de canciones.
+- Organizar y acceder a la colección de canciones.
 - Gestionar listas de reproducción.
 - Crear y organizar una cola de canciones a reproducir.
 - Realizar consultas sobre las canciones reproducidas recientemente.
